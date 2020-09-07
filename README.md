@@ -6,7 +6,7 @@
 Front end development :
 
 Bootstrap framework (HTML5,CSS3)
-JavaScript, jQuery
+JavaScript(script tag)
 
 Server-side script :
 Django
