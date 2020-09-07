@@ -1,4 +1,4 @@
-# MovieWebsite
+
 
 <h1>Created a  Movie streaming web app as a part of an internship assignement using the Django Framework.</h1>
 
