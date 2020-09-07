@@ -1,6 +1,6 @@
 
 
-<h1>Created a  Movie streaming web app as a part of an internship assignement using the Django Framework.</h1>
+<h2>Created a  Movie streaming web app as a part of an internship assignement using the Django Framework.</h2>
 
 <h3>Tech Stack</h3>
 Front end development :
