@@ -14,6 +14,7 @@ Django
 <li>well-defined login & signup processes using Django's UserCreationForm and AuthenticationForm.
 <li>2 types of users : Superuser and general users.
 <li>Superuser will have access to the data and can upload,update,delete (CRUD functions).
-<li>Comment can be posted by all types of users.
+<li>Comments can be posted by all types of users which are logged in else will be asked to login or signup.
 <li>Logo of the website is designed at canva.com.
+ 
  
