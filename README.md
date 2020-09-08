@@ -15,7 +15,7 @@ Django
 <li>2 types of users : Superuser and general users.
 <li>Superuser will have access to the data and can upload,update,delete (CRUD functions).
 <li>Comments can be posted by all types of users which are logged in else will be asked to login or signup.
- <br>  (Used foreign key to display comments)
+ <br> &nbsp; (Used foreign key to display comments)
 <li>Logo of the website is designed at canva.com.
  
  
