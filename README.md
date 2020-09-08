@@ -20,5 +20,4 @@ Django
  <br>
  (All images of the website are available in moviewebsite folder)
  <br>
- Home:
- <img src="https://github.com/shubhamc1200/MovieWebsite/blob/master/moviewebsite/home.PNG">
+
