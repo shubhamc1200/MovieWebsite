@@ -18,3 +18,5 @@ Django
  <br> &nbsp;&nbsp;&nbsp; (Used foreign key to display comments)
 <li>Logo of the website is designed at canva.com.
  
+ Home:
+ <img src="https://github.com/shubhamc1200/MovieWebsite/blob/master/moviewebsite/home.PNG">
