@@ -18,4 +18,4 @@ Django
  <br> &nbsp;&nbsp;&nbsp; (Used foreign key to display comments)
 <li>Logo of the website is designed at canva.com.
  
- 
+<img>list.png</img>
