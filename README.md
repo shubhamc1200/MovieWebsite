@@ -11,8 +11,10 @@ JavaScript(script tag)
 Server-side script :
 Django
 
-- well-defined login & signup processes using Django's UserCreationForm and AuthenticationForm.
--2 types of users : Superuser and general users.
--Superuser will have access to the data and can upload,update,delete (CRUD functions).
--Comment can be posted by all types of users.
--Logo of the website is designed at canva.com.
+<ul>
+<li>well-defined login & signup processes using Django's UserCreationForm and AuthenticationForm.
+<li>2 types of users : Superuser and general users.
+<li>Superuser will have access to the data and can upload,update,delete (CRUD functions).
+<li>Comment can be posted by all types of users.
+<li>Logo of the website is designed at canva.com.
+ </ul>
